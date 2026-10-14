@@ -166,4 +166,4 @@ The plot below shows the training data, testing data, regression line, and predi
 
 ---
 
-Made with ❤️ by [Dhanish Ladwani](https://github.com/dhanish0711)
+Made with ❤️ by Rohan Laharwani
